@@ -6,7 +6,7 @@
 
 💞️ I'm eager to join forces with experienced mentors and fellow students to explore the exciting world of Frontend Development.
 
-📧 Feel free to connect with me on [email address] or [social media handle] to discuss collaboration opportunities.
+📧 Feel free to connect with me on inaki.barcelo@gmail.com or https://www.linkedin.com/in/i%C3%B1akibl/ to discuss collaboration opportunities.
 
 This bio is more engaging, specific, and provides clear contact information. It effectively conveys your passion for Frontend Development and your willingness to collaborate.
 
