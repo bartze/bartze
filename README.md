@@ -8,8 +8,6 @@
 
 📧 Feel free to connect with me on inaki.barcelo@gmail.com or https://www.linkedin.com/in/i%C3%B1akibl/ to discuss collaboration opportunities.
 
-This bio is more engaging, specific, and provides clear contact information. It effectively conveys your passion for Frontend Development and your willingness to collaborate.
-
 <!---
 bartze/bartze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
